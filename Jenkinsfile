@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DIRECTORY_PATH = "https://github.com/PragatiKuchhal/Task-3.2C.git"
-        TESTING_ENVIRONMENT = "TASK 6.2C"
+        TESTING_ENVIRONMENT = "Pragati Kuchhal"
         PRODUCTION_ENVIRONMENT = "Pragati"
     }
 
